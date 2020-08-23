@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=* NewDesignator=J
+Change Net Name : Old Net Name=Net*_1 New Net Name=NetJ_1
+Change Net Name : Old Net Name=Net*_2 New Net Name=NetJ_2
+Change Net Name : Old Net Name=Net*_3 New Net Name=NetJ_3
+Change Net Name : Old Net Name=Net*_4 New Net Name=NetJ_4
+Added Room: Name=AT long bus (13.3 x 4.2 inches)

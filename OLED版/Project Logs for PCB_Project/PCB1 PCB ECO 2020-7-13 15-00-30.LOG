@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=S1 Old Footprint=TSW DIP-6*6*6 New Footprint=TSW DIP-6*6*7
+Change Component Footprint: Designator=S2 Old Footprint=TSW DIP-6*6*6 New Footprint=TSW DIP-6*6*7
+Change Component Footprint: Designator=S3 Old Footprint=TSW DIP-6*6*6 New Footprint=TSW DIP-6*6*7
+Change Component Footprint: Designator=S4 Old Footprint=TSW DIP-6*6*6 New Footprint=TSW DIP-6*6*7
+Added Room: Name=AT long bus (13.3 x 4.2 inches)
