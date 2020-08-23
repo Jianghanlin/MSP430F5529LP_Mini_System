@@ -1,0 +1,2 @@
+# MSP430F5529LP_Mini_System
+基于MSP430F5529LP的最小系统板
