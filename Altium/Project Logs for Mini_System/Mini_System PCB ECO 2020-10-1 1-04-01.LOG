@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=P8.1 Pin=J12-1
+Removed Pin From Net: NetName=P8.2 Pin=J13-1
+Change Component Designator: OldDesignator=0.1uF NewDesignator=C1
+Change Component Designator: OldDesignator=1.5' OLED NewDesignator=U1
+Change Component Designator: OldDesignator=4.7k NewDesignator=R1
+Change Component Designator: OldDesignator=4.7k NewDesignator=R4
+Change Component Designator: OldDesignator=4.7k NewDesignator=R5
+Change Component Designator: OldDesignator=10k NewDesignator=Pp1
+Change Component Designator: OldDesignator=500 NewDesignator=R10
+Change Component Designator: OldDesignator=AT24C02 NewDesignator=U3
+Change Component Designator: OldDesignator=DAC8571 NewDesignator=U5
+Change Component Designator: OldDesignator=DS18B20 NewDesignator=U2
+Change Component Designator: OldDesignator=LED Test NewDesignator=J7
+Change Component Designator: OldDesignator=LMT70 NewDesignator=P8
+Change Component Designator: OldDesignator=RSCG12864B NewDesignator=U6
+Added Pin To Net: NetName=P8.2 Pin=J12-1
+Added Pin To Net: NetName=P8.1 Pin=J13-1
+Added Member To Class: ClassName=Mini_System Member=Component R1 4.7k
+Added Member To Class: ClassName=Mini_System Member=Component R4 4.7k
+Added Room: Name=Mini_System

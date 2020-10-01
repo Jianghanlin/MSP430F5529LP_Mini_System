@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Mini_System.PrjPcb]
+   Generated File[Pick Place for Mini_System.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 16:13:45 On 2020/10/1

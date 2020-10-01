@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=P2.3 Pin=P11-7
+Removed Pin From Net: NetName=P3.5 Pin=U6-3
+Change Component Comment : Designator=J9 Old Comment=3.3V New Comment=3.3V电源输出
+Change Component Comment : Designator=P5 Old Comment=3.3V New Comment=3.3V电源输出
+Change Component Comment : Designator=J10 Old Comment=5V New Comment=5V电源输出
+Change Component Comment : Designator=P6 Old Comment=5V New Comment=5V电源输出
+Change Component Comment : Designator=U3 Old Comment=AT24C02 New Comment=AT24C02BN-SP25-B
+Added Pin To Net: NetName=P3.5 Pin=P11-7
+Added Pin To Net: NetName=P2.3 Pin=U6-3
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=Mini_System Member=Component Pp1 10k
+Added Room: Name=Mini_System

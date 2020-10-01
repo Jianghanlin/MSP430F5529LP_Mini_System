@@ -1,9 +1,0 @@
-Added Pin To Net: NetName=VREF Pin=DAC8571-1
-Added Pin To Net: NetName=VREF Pin=DAC8571-2
-Added Pin To Net: NetName=NetDAC8571_VOUT Pin=DAC8571-3
-Added Pin To Net: NetName=NetDAC8571_VOUT Pin=DAC8571-4
-Added Pin To Net: NetName=VCC Pin=DAC8571-5
-Added Pin To Net: NetName=P3.1 Pin=DAC8571-6
-Added Pin To Net: NetName=P3.0 Pin=DAC8571-7
-Added Pin To Net: NetName=VCC Pin=DAC8571-8
-Added Room: Name=AT long bus (13.3 x 4.2 inches)

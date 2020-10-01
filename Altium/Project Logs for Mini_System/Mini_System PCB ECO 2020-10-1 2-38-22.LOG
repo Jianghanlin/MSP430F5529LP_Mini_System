@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=U2 Old Footprint=TO-92(TO-92-3) New Footprint=HDR-1X3_Y
+Change Component Comment : Designator=U1 Old Comment=1.5' OLED New Comment=SSD1351
+Change Component Designator: OldDesignator=10k NewDesignator=Pp1
+Change Component Designator: OldDesignator=500 NewDesignator=R10
+Change Component Designator: OldDesignator=AT24C02 NewDesignator=U3
+Change Component Designator: OldDesignator=DAC8571 NewDesignator=U5
+Added Member To Class: ClassName=Mini_System Member=Component C1 0.1uF
+Added Member To Class: ClassName=Mini_System Member=Component J7 LED²âÊÔ¿Ú
+Added Member To Class: ClassName=Mini_System Member=Component R5 4.7k
+Added Member To Class: ClassName=Mini_System Member=Component R8 200
+Added Room: Name=Mini_System

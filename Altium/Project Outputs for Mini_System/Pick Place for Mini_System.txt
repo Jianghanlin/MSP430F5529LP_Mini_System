@@ -1,0 +1,65 @@
+Altium Designer Pick and Place Locations
+E:\Projects\Altium Projects\Mini_System\Altium\Project Outputs for Mini_System\Pick Place for Mini_System.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/10/20
+Time:       16:13
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment        Layer    Footprint             Center-X(mil) Center-Y(mil) Rotation Description                                                                                                   
+P11        "Header 7"     TopLayer HDR-1X7_M             551.181       -1320.472     270      "Header, 7-Pin"                                                                                               
+U6         RSCG12864B     TopLayer HDR-1X8_M             3618.110      -1817.716     270      ""                                                                                                            
+U5         DAC8571        TopLayer DIP8-300_MH           2224.410      -944.882      360      16位DAC芯片，将数字量转化为模拟电压输出                                                                                        
+U4         ADS1118        TopLayer DIP12                 1410.630      -2285.432     90       16位ADC芯片，将模拟电压信号转化为数字信号供单片机处理                                                                                 
+U3         AT24C02        TopLayer DIP8-300_MH           1779.134      -1583.858     360      "2Kbit (256 x 8), 2-wire Bus Automotive Serial EEPROM with full memory Write Protect, 2.5V, 8-Pin SOIC, Bulk" 
+U2         DS18B20        TopLayer HDR-1X3_Y             413.386       -2696.850     90       DS18B20                                                                                                       
+U1         SSD1351        TopLayer HDR-1X7_M             3614.174      -2734.646     90       1.5寸彩色OLED                                                                                                    
+S4         S4             TopLayer BUTTON_6*6            2942.435      -2831.088     0        "Tactile Switch触觉开关"                                                                                          
+S3         S3             TopLayer BUTTON_6*6            2241.485      -2831.088     0        "Tactile Switch触觉开关"                                                                                          
+S2         S2             TopLayer BUTTON_6*6            2942.435      -2305.758     0        "Tactile Switch触觉开关"                                                                                          
+S1         S1             TopLayer BUTTON_6*6            2241.485      -2305.758     0        "Tactile Switch触觉开关"                                                                                          
+R10        500            TopLayer RS_1/4W               708.662       -3267.717     270      Resistor                                                                                                      
+R9         200            TopLayer RS_1/4W               3692.914      -716.535      90       Resistor                                                                                                      
+R8         200            TopLayer RS_1/4W               3521.260      -716.535      90       Resistor                                                                                                      
+R7         200            TopLayer RS_1/4W               3349.606      -716.535      90       Resistor                                                                                                      
+R6         200            TopLayer RS_1/4W               3177.952      -716.535      90       Resistor                                                                                                      
+R5         4.7k           TopLayer RS_1/4W               2539.370      -1732.284     180      Resistor                                                                                                      
+R4         4.7k           TopLayer RS_1/4W               2263.779      -1535.434     180      Resistor                                                                                                      
+R3         10K            TopLayer RS_1/4W               2992.127      -748.031      90       Resistor                                                                                                      
+R2         10K            TopLayer RS_1/4W               2834.646      -748.031      90       Resistor                                                                                                      
+R1         4.7k           TopLayer RS_1/4W               913.386       -2692.914     180      Resistor                                                                                                      
+Pp1        10k            TopLayer RP_3296               511.812       -3287.402     180      3296电位器                                                                                                       
+P10        "Header 7"     TopLayer HDR-1X7_M             334.646       -1322.047     270      "Header, 7-Pin"                                                                                               
+P9         "Header 2"     TopLayer HDR1X2                295.274       -3237.402     90       "Header, 2-Pin"                                                                                               
+P8         LMT70          TopLayer HDR-1X3_M             411.694       -2204.724     90       "Header, 3-Pin"                                                                                               
+P7         GND            TopLayer HDR1X4                3188.976      -3338.976     270      "Header, 4-Pin"                                                                                               
+P6         5V电源输出         TopLayer HDR1X4                2460.630      -3335.826     270      "Header, 4-Pin"                                                                                               
+P5         3.3V电源输出       TopLayer HDR1X4                1712.598      -3334.252     270      "Header, 4-Pin"                                                                                               
+P4         "Header 4"     TopLayer HDR1X4                1503.544      -2736.220     360      "Header, 4-Pin"                                                                                               
+P3         DAC8571_Output TopLayer HDR-1X2_H             2253.150      -393.700      180      "Header, 2-Pin"                                                                                               
+P2         "Header 10X2"  TopLayer HDR2X10               2644.134      -842.598      270      "Header, 10-Pin, Dual row"                                                                                    
+P1         "Header 10X2"  TopLayer HDR2X10               944.134       -842.598      270      "Header, 10-Pin, Dual row"                                                                                    
+LED4       Y              TopLayer LED-R3-H5-SINGLE-Y    3732.284      -1198.030     270      "Typical INFRARED GaAs LED"                                                                                   
+LED3       R              TopLayer LED-R3-H5-SINGLE-R    3540.684      -1198.032     270      "Typical INFRARED GaAs LED"                                                                                   
+LED2       B              TopLayer LED-R3-H5-SINGLE-B    3349.080      -1198.028     270      "Typical INFRARED GaAs LED"                                                                                   
+LED1       G              TopLayer LED-R3-H5-SINGLE-G    3157.480      -1198.030     270      "Typical INFRARED GaAs LED"                                                                                   
+J14        Jump           TopLayer HDR-1x2               914.566       -3090.552     360      ""                                                                                                            
+J13        Jump           TopLayer HDR-1x2               2714.858      -1484.036     270      ""                                                                                                            
+J12        Jump           TopLayer HDR-1x2               2559.056      -1487.008     270      ""                                                                                                            
+J11        GND            TopLayer WJ500V-5.08-2         2895.276      -3326.772     0        接线端子                                                                                                          
+J10        5V             TopLayer WJ500V-5.08-2         2163.780      -3326.772     0        接线端子                                                                                                          
+J9         3.3V           TopLayer WJ500V-5.08-2         1415.748      -3326.772     360      接线端子                                                                                                          
+J8         电源输入           TopLayer XH2.54-2P             442.126       -531.496      360      连接器                                                                                                           
+J7         LED测试口         TopLayer HDR-1X4_M             3453.938      -413.386      360      排针                                                                                                            
+J6         Jump           TopLayer HDR-1x2               761.024       -2102.362     360      ""                                                                                                            
+J5         Jump           TopLayer HDR-1x2               2145.670      -1794.094     270      ""                                                                                                            
+J4         Jump           TopLayer HDR-1x2               761.024       -2307.086     360      ""                                                                                                            
+J3         Jump           TopLayer HDR-1x2               2883.070      -413.386      180      ""                                                                                                            
+J2         Jump           TopLayer HDR-1x2               761.024       -2535.434     180      ""                                                                                                            
+J1         Jump           TopLayer HDR-1x2               855.512       -2874.016     180      ""                                                                                                            
+C2         0.1uF          TopLayer Capacitor-Disk-Middle 2233.464      -1220.472     180      CBB聚乙烯薄膜电容                                                                                                    
+C1         0.1uF          TopLayer Capacitor-Disk-Middle 1211.418      -1909.448     180      CBB聚乙烯薄膜电容                                                                                                    

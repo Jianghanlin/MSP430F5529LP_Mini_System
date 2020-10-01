@@ -1,0 +1,29 @@
+Change Component Designator: OldDesignator= NewDesignator=P4
+Change Component Designator: OldDesignator=0.1uF NewDesignator=C1
+Change Component Designator: OldDesignator=1.5' OLED NewDesignator=U1
+Change Component Designator: OldDesignator=4.7k NewDesignator=R1
+Change Component Designator: OldDesignator=200 NewDesignator=R6
+Change Component Designator: OldDesignator=200 NewDesignator=R7
+Change Component Designator: OldDesignator=200 NewDesignator=R8
+Change Component Designator: OldDesignator=200 NewDesignator=R9
+Change Component Designator: OldDesignator=B NewDesignator=LED2
+Change Component Designator: OldDesignator=DS18B20 NewDesignator=U2
+Change Component Designator: OldDesignator=G NewDesignator=LED1
+Change Component Designator: OldDesignator=LED Test NewDesignator=J7
+Change Component Designator: OldDesignator=LMT70 NewDesignator=P8
+Change Component Designator: OldDesignator=R NewDesignator=LED3
+Change Component Designator: OldDesignator=RSCG12864B NewDesignator=U6
+Change Component Designator: OldDesignator=Y NewDesignator=LED4
+Added Member To Class: ClassName=Mini_System Member=Component C1 0.1uF
+Added Member To Class: ClassName=Mini_System Member=Component J7 LED²âÊÔ¿Ú
+Added Member To Class: ClassName=Mini_System Member=Component LED1 G
+Added Member To Class: ClassName=Mini_System Member=Component LED2 B
+Added Member To Class: ClassName=Mini_System Member=Component LED3 R
+Added Member To Class: ClassName=Mini_System Member=Component LED4 Y
+Added Member To Class: ClassName=Mini_System Member=Component P4 Header 4
+Added Member To Class: ClassName=Mini_System Member=Component R1 4.7k
+Added Member To Class: ClassName=Mini_System Member=Component R6 200
+Added Member To Class: ClassName=Mini_System Member=Component R7 200
+Added Member To Class: ClassName=Mini_System Member=Component R8 200
+Added Member To Class: ClassName=Mini_System Member=Component R9 200
+Added Room: Name=Mini_System
