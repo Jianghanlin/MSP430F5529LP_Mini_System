@@ -26,7 +26,7 @@ void LMT70_temp_display() //ÒÀÀµ16Bit ADS1118£¬ÏÔÊ¾LMT70µÄÎÂ¶È
 
 void user_init(void)
 {
-
+    ssd1351_show_rainbow();
 }
 
 void user_loop(void)

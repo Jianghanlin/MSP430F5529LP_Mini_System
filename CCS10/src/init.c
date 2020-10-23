@@ -18,14 +18,14 @@ void device_init(void)
 
     //wdt_init(); //看门狗初始化
 
-    /*
+
      usci_a0_spi_init(); //通用异步通信接口USCIA0组初始化
      ssd1351_init(); //oled屏幕初始化
-     */
 
-    RSCG12864B_init();
-    //ADS1118_Init();
-    //DAC8571_Init();
+
+    //RSCG12864B_init();
+    ADS1118_Init();
+//    DAC8571_Init();
     //DS18B20_Init();
     //usci_b0_i2c_init();
     //soft_i2c_init();
